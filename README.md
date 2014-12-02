@@ -1,4 +1,4 @@
 geoloc
-======
+====
 
-geolocation practice
+Simple Geolocation APP
